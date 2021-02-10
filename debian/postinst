@@ -1,0 +1,11 @@
+#! /bin/sh
+
+set -e
+
+if [ -x /etc/init.d/network-manager ]; then
+  if [ -x /usr/sbin/update-rc.d ]; then
+    update-rc.d network-manager defaults >/dev/null 2>&1
+  fi
+fi
+
+exit 0

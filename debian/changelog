@@ -1,0 +1,5 @@
+network-manager-sysvinit-compat (21.02.01) mx; urgency=medium
+
+  * Initial release.
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 09 Feb 2021 19:24:12 -0400
