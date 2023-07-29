@@ -1,3 +1,9 @@
+network-manager-sysvinit-compat (23.07.01) mx; urgency=medium
+
+  * add systemd check & exit
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 28 Jul 2023 20:36:18 -0400
+
 network-manager-sysvinit-compat (21.02.01) mx; urgency=medium
 
   * Initial release.
